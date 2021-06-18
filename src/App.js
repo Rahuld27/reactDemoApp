@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Demo App confguration to netlify is completed.
+          Yay!! We configured our github repo with Netlify for continuous develoment.
         </p>
         <a
           className="App-link"
